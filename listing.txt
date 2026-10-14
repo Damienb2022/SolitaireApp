@@ -1,0 +1,44 @@
+APP NAME (max 30 characters)
+SimplySolitaire
+
+SHORT DESCRIPTION (max 80 characters)
+100% offline, no ads. Just SimplySolitaire.
+
+FULL DESCRIPTION (max 4000 characters)
+100% offline, no ads. Just SimplySolitaire.
+
+The classic Klondike solitaire you remember: a green table, a deck of cards, and nothing else.
+
+No ads. No pop-ups. No in-app purchases. No accounts. No tracking. The app doesn't even ask for internet access, so it works anywhere (on a plane, in the bush, with Wi-Fi off) and it can't send anything anywhere.
+
+EASY TO PLAY
+• Tap a card and it jumps to the best place, or drag it where you want
+• Big, clear cards and large buttons
+• Unlimited Undo
+• Hint button shows you a good move
+• Tells you when a game can't be won, so you're never stuck guessing
+• Finishes the game for you once every card is turned over
+
+CLASSIC FEEL
+• Draw 1 (easier) or Draw 3 (classic challenge)
+• The bouncing-cards celebration when you win
+• Choose a table colour: Classic green, Blue, Orange or Dark
+
+KEEP TRACK
+• Games played, won, lost and discarded
+• Win rate, current and best winning streak
+• Fewest moves to win
+
+Your game is saved after every move, so you can pick up exactly where you left off.
+
+[IF SOLD AS A PAID APP, ADD:]
+Pay once, play forever. No ads, no upgrades, no subscriptions.
+
+CATEGORY
+Game > Card
+
+CONTACT EMAIL
+[your contact email]
+
+PRIVACY POLICY URL
+[link to where you host store/privacy-policy.html]
